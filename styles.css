@@ -1,0 +1,56 @@
+
+h1 {/* name */ 
+  color: black;
+  font-family: Goldman;
+  padding-left: 50px;} 
+h2 {/* intro */
+  color: black;
+  font-family: Goldman;
+  padding-left: 50px;
+  color: #ff0099;}
+h3 {/* technology wiki */
+  color: black;
+  font-family: Goldman;
+  padding-left: 50px;}
+h4 {/* definition title */
+  color: black;
+  font-family: Goldman;
+  padding-left: 50px;
+  margin-top: 2px;
+  margin-bottom: 2px;}
+p {/* text */
+    color: black;
+    padding: 10px;
+    margin: 2px 10px;
+    line-height: 17px;
+    Font-size: 17px;
+    margin: auto;
+    max-width: 800px;
+    padding-right: 5%;
+    padding-left: 5%;
+    font-family: consolas;}
+/*Header*/
+header {background-color: #333333;
+border-radius: 8px;}
+nav > a {
+    color: #ff0099;
+    font-family: consolas;
+    font-size: 20px;
+    float: right;
+    text-align: center;
+    padding: 22px 10px 10px 10px; }
+nav>a:hover {color: white; /*changes link color when pointing on it*/}
+
+nav>img {padding: 3px;}
+
+.separator {
+    text-align: center;
+    font-family: consolas;
+    color: black;}
+body {background-image: url(assets/background.png);/*background image input*/
+      padding-left: 10%;
+      padding-right: 10%;}
+
+.cool_wolf_picture {/*wolf image settings*/
+    text-align: center;
+} 
